@@ -1,0 +1,11 @@
+@import "~normalize.css";
+@import "../src/styles/fontsCss/fonts.css";
+
+body {
+    font-family: "Roboto";
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
